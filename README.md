@@ -2,7 +2,7 @@
 
 TILをsphinxを使ってWebサイト化
 
-## raspberry pi での編集方法
+## 編集方法
 
 編集するのは、sourceディレクトリの中のみ<br>
 sourceディレクトリ内にコンテンツ用ディレクトリを作成<br>
