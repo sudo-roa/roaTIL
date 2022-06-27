@@ -3,6 +3,8 @@
 ![](https://img.shields.io/badge/python-3.7-blue.svg)
 ![](https://img.shields.io/badge/sphinx-4.5.0-blue.svg)
 
+[https://roatil.netlify.app](https://roatil.netlify.app)
+
 # roaTIL
 以前のTILリポジトリが管理しづらかったため、新たにroaTILとしてリニューアル<br>
 roaTILはsphinxで静的サイトとして生成し、それをNetlifyでデプロイ
@@ -39,3 +41,6 @@ $ source venv/bin/activate
 ## 参考
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [Netlify Docs](https://docs.netlify.com/)
+
+## Author
+- [sudo-roa](https://github.com/sudo-roa)
