@@ -1,4 +1,4 @@
 [build]
     base = "docs"
     publish = "build"
-    command = "sphinx-build source build"
+    command = "./make_pub.sh" 
