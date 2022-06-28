@@ -37,6 +37,9 @@ reStructuredTextでは目次機能を容易に利用できるため、主に目�
 ```
 ````
 
+toctreeの生成は<br>
+.rstもしくは.mdファイルに対するpathを記述する<br>
+
 ### reStructuredTextの参考
 
 - [sphinx reStructuredText入門](https://www.sphinx-doc.org/ja/master/usage/restructuredtext/basics.html)
@@ -135,7 +138,19 @@ graph TD;
     B-->D;
     C-->D;
 ```
+### SphinxでのMermaidの実用
+正直うまく出力できないことが多い<br>
+うまくいかない時はNotionもしくはGithubで図を作成し、スクショを撮って画像として貼り付ける方法をとる<br>
 
-### mermaidの参考
+### Mermaidの参考
 
 - [mermaid](https://mermaid-js.github.io/mermaid/#/)
+
+## 画像の貼り付けについて
+画像はサイズが大きすぎるとページ全体のスタイルが崩れてしまう(特にスマートフォン)ので、サイズを固定する方法をとる<br>
+サイズは横幅360pxに固定する<br>
+
+固定方法<br>
+- 横幅360pxの画像を生成する
+- ffmpeg等で360pxに等倍加工をする
+- pipでインストールしたthemeのデフォルトのCSS設定でimgタグのwidthを360pxにする

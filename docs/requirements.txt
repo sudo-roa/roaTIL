@@ -13,7 +13,6 @@ mdit-py-plugins==0.3.0
 mdurl==0.1.1
 myst-parser==0.17.2
 packaging==21.3
-pkg-resources==0.0.0
 Pygments==2.12.0
 pyparsing==3.0.9
 pytz==2022.1
