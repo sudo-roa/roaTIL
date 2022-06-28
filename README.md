@@ -38,6 +38,11 @@ $ source venv/bin/activate
 (venv)$ sphinx-build docs/source build
 ```
 
+### Learned tree の生成方法
+```
+$ ./LeanedTree.sh
+```
+
 ## 参考
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [Netlify Docs](https://docs.netlify.com/)
