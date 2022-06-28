@@ -154,3 +154,7 @@ graph TD;
 - 横幅360pxの画像を生成する
 - ffmpeg等で360pxに等倍加工をする
 - pipでインストールしたthemeのデフォルトのCSS設定でimgタグのwidthを360pxにする
+
+```
+$ ffmpeg -i INPUT_FILE -vf "scale=360:-1" -q 2 OUTPUT_FILE
+```
