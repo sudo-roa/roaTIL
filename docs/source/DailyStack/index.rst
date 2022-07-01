@@ -7,3 +7,4 @@ DailyStack
 
    WriteRule
    202206/index
+   202207/index

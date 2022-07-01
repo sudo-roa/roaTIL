@@ -23,10 +23,12 @@ source
 │   │   ├── 20220628.md
 │   │   ├── 20220629.md
 │   │   └── 20220630.md
+│   ├── 202207
+│   │   └── 20220701.md
 │   └── WriteRule.md
 ├── HowtoWrite.md
 ├── LearnedTree.md
 └── Setting.md
 
-4 directories, 21 files
+5 directories, 22 files
 ```
