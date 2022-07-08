@@ -2,7 +2,6 @@
 # Learned tree
 ```
 source
-├── conf.py
 ├── Contents
 │   └── Sphinx
 │       └── Sphinx.md
@@ -26,11 +25,13 @@ source
 │   ├── 202207
 │   │   ├── 20220701.md
 │   │   ├── 20220703.md
-│   │   └── 20220707.md
+│   │   ├── 20220707.md
+│   │   └── 20220708.md
 │   └── WriteRule.md
 ├── HowtoWrite.md
 ├── LearnedTree.md
-└── Setting.md
+├── Setting.md
+└── conf.py
 
-5 directories, 24 files
+5 directories, 25 files
 ```
